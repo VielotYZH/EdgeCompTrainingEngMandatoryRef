@@ -1,0 +1,2 @@
+# EdgeCompTrainingEngMandatoryRef
+此为Dian团队犀牛鸟组边缘计算培训路线中，工程必修方面，四周任务的一种可能的实现
